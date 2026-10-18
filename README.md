@@ -31,7 +31,7 @@ The site can be hosted on GitHub Pages or another static host. For GitHub Pages,
 
 - [Issue Tracker live application](https://issue-tracker-517911843323.us-central1.run.app)
 - [Issue Tracker API](https://issue-tracker-517911843323.us-central1.run.app/issues)
-- [Issue Tracker source repository](https://github.com/STLOZ314/issue-tracker)
+- [Issue Tracker source repository](https://github.com/STLOZ314/-issue-tracker.git)
 - [LinkedIn](https://www.linkedin.com/in/robert-birge-b8884541b)
 - [GitHub](https://github.com/STLOZ314)
 
