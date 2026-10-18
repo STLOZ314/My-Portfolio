@@ -2,6 +2,10 @@
 
 A responsive, single-page portfolio introducing my work, skills, and contact details. The featured case study covers my role on a team Issue Tracker project and links to its live application, API, and public source repository.
 
+## Public checkpoint
+
+The portfolio is publicly viewable without a login at [https://stloz314.github.io/My-Portfolio/](https://stloz314.github.io/My-Portfolio/). Use this link as the in-progress checkpoint.
+
 ## Contents
 
 - `index.html` — page content and semantic structure
